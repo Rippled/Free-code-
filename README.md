@@ -1,2 +1,2 @@
 # Free-code-
-Subject to licence
+This funtion finds the difference between two dates in the mySQL format.
