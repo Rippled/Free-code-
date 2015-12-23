@@ -1,2 +1,2 @@
 # Free-code-
-This funtion finds the difference between two dates in the mySQL format.
+This funtion finds the difference between two dates. It uses the mySQL format.
